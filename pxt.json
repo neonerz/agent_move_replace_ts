@@ -1,6 +1,6 @@
 {
     "name": "agent_move_replace_ts",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "",
     "dependencies": {
         "core": "*",
