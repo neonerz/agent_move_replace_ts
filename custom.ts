@@ -9,7 +9,6 @@ enum Direction {
 namespace custom {
 
     //% block="agent move %move_direction %move_blocks blocks then replace %replace_direction with %block"
-    //% inlineInputMode=inline
     //% block.fieldEditor="gridpicker"
     //% block.fieldOptions.columns=8 
     //% block.fieldOptions.maxRows="8"
