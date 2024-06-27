@@ -8,7 +8,7 @@ enum Direction {
 //%  block="My Project" weight=200 color=#0000FF icon="\uf0da"
 namespace custom {
 
-    //% block="agent2 move %move_direction %move_blocks blocks then replace %replace_direction with %block"
+    //% block="agent move %move_direction %move_blocks blocks then replace %replace_direction with %block"
     //% inlineInputMode=inline
     //% block.fieldEditor="gridpicker"
     //% block.fieldOptions.width=340 
